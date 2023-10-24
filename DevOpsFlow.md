@@ -1,4 +1,4 @@
-graph LR
+    graph LR
 
     subgraph Planning
         Plan[Plan 'Tool Name']
