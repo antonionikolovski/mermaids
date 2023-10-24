@@ -1,4 +1,5 @@
-    graph LR
+```mermaid
+graph LR
 
     subgraph Planning
         Plan[Plan 'Tool Name']
@@ -28,4 +29,6 @@
     Deploy --> Operate
     Operate --> Monitor
     Monitor --> Plan
+
+```
 
